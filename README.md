@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**Kencho5/Kencho5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## 💬 Contact:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/giorgi-kenchadze-324a33221/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:giokenchadze@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+- 📝 Currently employed at  [MSDA](https://www.linkedin.com/company/municipal-services-development-agency/mycompany/), actively contributing to organizational goals, and concurrently managing personal projects for professional development.
+
+<div align="center">
+
+## 💻 Tech Stack:
+
+[![ Tech Stack](https://skillicons.dev/icons?i=rust,angular,nodejs,express,typescript,cpp,python,linux,postgresql,mongodb)](https://skillicons.dev)
+
+
+## 📊 Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kencho5&show_icons=true&theme=date_night" />&nbsp;&nbsp;
+</p>
+
+
+</div>
