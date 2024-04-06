@@ -8,7 +8,7 @@
 </div>
 
 
-- 📝 Currently employed at  [MSDA](https://www.linkedin.com/company/municipal-services-development-agency/mycompany/), actively contributing to organizational goals, and concurrently managing personal projects for professional development.
+- 📝 Currently employed at  [MSDA](https://www.linkedin.com/company/municipal-services-development-agency/mycompany/).
 
 <div align="center">
 
