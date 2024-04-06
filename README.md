@@ -7,11 +7,13 @@
 
 </div>
 
+<br><br><br>
 <div align="center">
     
 - 📝 Currently employed at  [MSDA](https://www.linkedin.com/company/municipal-services-development-agency/mycompany/).
 </div>
-<br>
+
+<br><br><br>
 <div align="center">
 
 ## 💻 Tech Stack:
@@ -19,6 +21,7 @@
 [![ Tech Stack](https://skillicons.dev/icons?i=rust,angular,nodejs,express,typescript,cpp,python,linux,postgresql,mongodb)](https://skillicons.dev)
 
 
+<br><br><br>
 ## 📊 Stats:
 
 <p>
