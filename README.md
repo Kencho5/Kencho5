@@ -15,11 +15,11 @@
 
 ###
 
-<h3 align="left">💼 Currently employed at MSDA</h3>
+<h3 align="center">💼 Currently employed at MSDA</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">📊   Stats :</h3>
+<h3 align="center">📊   Stats :</h3>
 
 ###
 
